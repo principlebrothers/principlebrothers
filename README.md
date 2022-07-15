@@ -13,6 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/principlebrothers](https://github.com/principlebrothers)
 
+- 📝 I regularly write articles on [https://medium.com/@ernestadonu](https://medium.com/@ernestadonu)
+
 - 📫 How to reach me **ernestadonu@yahoo.com**
 
 ### Blogs posts
