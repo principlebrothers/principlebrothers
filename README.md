@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently a student @ [Microverse an online coding school](https://www.microverse.org/)
 
-- 🌱 I’m currently learning **Database, Ruby,...**
+- 🌱 I’m currently learning **Rails, Ruby,...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/principlebrothers](https://github.com/principlebrothers)
 
