@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ernestadonu@yahoo.com**
 
-- 📄 Learn about my experiences [https://docs.google.com/document/d/1p_fhx73POqzWGW33_RPnZBGt7mx5LSkgnQA40p4vUlA/edit?usp=sharing](https://docs.google.com/document/d/1p_fhx73POqzWGW33_RPnZBGt7mx5LSkgnQA40p4vUlA/edit?usp=sharing)
+- 📄 Learn about my experiences from [this link](https://docs.google.com/document/d/1p_fhx73POqzWGW33_RPnZBGt7mx5LSkgnQA40p4vUlA/edit?usp=sharing) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
