@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ernest Anyewe Adonu</h1>
-<h3 align="center">A passionate Web Developer, I love Automation and I like to build responsive web applications that makes life simple by automating our daily works.</h3>
+<h3 align="center">A passionate Web Developer, I love Automation and I like to build responsive web applications that makes life simple by automating our daily work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=principlebrothers&label=Profile%20views&color=0e75b6&style=flat" alt="principlebrothers" /> </p>
 
