@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently a student @ [Microverse](https://www.microverse.org/) - an online coding school
 
-- 🌱 I’m currently learning **Ruby on Rails, React,TypeScript, SCSS**
+- 🌱 I’m currently learning **Ruby on Rails,docker, React,TypeScript, SCSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/principlebrothers](https://github.com/principlebrothers)
 
