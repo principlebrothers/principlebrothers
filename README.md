@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ernest Anyewe Adonu</h1>
-<h3 align="center">A passionate Web Developer, I love Automation and I like to build responsive web applications that makes life simple by automating our daily work.</h3>
+<h3 align="center">Skilled software engineer with 4+ years of relevant experience. I build, maintain and optimize internal business systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=principlebrothers&label=Profile%20views&color=0e75b6&style=flat" alt="principlebrothers" /> </p>
 
@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/adonu_ernest" target="blank"><img src="https://img.shields.io/twitter/follow/adonu_ernest?logo=twitter&style=for-the-badge" alt="adonu_ernest" /></a> </p>
 
-- 🔭 I’m currently a student @ [Microverse](https://www.microverse.org/) - an online coding school
+- 🔭 I currently work @ [Devdex Software LLC](https://devdexsoftware.com/) - a consultancy firm.
 
-- 🌱 I’m currently learning **Ruby on Rails, Docker, React,TypeScript, SCSS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/principlebrothers](https://github.com/principlebrothers)
+- 👨‍💻 Some of my projects are available at [https://github.com/principlebrothers](https://github.com/principlebrothers)
 
 - 📝 I regularly write articles on [https://medium.com/@ernestadonu](https://medium.com/@ernestadonu)
 
